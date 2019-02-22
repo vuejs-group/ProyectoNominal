@@ -1,6 +1,6 @@
 # nominalproject
 
-> Sistema para gestió de contratos y nomina de empleados.
+> Sistema para gestión de contratos y nómina de empleados.
 
 ## Build Setup
 
